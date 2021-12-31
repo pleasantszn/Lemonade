@@ -28,7 +28,6 @@
      "matches": [ "*://*.youtube.com/*" ]
   },
   "host_permissions": [ "*://*.youtube.com/*" ],
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiHSM4q3Ti5gb2j6lfOwlNvrl0IGtIVOdZZNckjd15gAZh5oo9BfO1QwqJQD39KdiyELCfTduxcDeQM5RLZ6V59iK5Lt04edFS6hF7gYrB5TMQ7pgFLetT4EUgZusu9PgApU11ZWrS+VfL/2XIcIGMdpBQ1rq7X6s7ffWoQzQiQhjZUoNaCMvyI0iCEH7RS4qylV5el80kH6RyUXCDFoo1zr06BiZOj65fALgbUmiz1RstI5/bsCgA44DHXonA7d/dvc5jWvXEuZdNWvuvYdpPPxGebSEktn0+waI+VXV5vggsTfILerIsKNb6rwTlujB6Ke98cKhIF3wGqUuvwdV6wIDAQAB",
   "name": "Lemonade",
   "description": "This chrome extension displays a Youtube video dislike count",
   "version": "1.0",
